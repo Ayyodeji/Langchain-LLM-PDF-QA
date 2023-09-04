@@ -137,7 +137,7 @@ In this lab, we used the following components to build the PDF QA Application:
 
 The application's architecture is designed as follows:
 
-![Lab 1 Architecture](assets/lab1-architecture.png)
+![Lab 1 Architecture](assets/arch_final.png)
 
 To run the complete application, follow the instructions provided in the README.
 
