@@ -4,19 +4,6 @@
 
 Welcome to the PDF QA Application! This project allows you to upload a PDF or text file and ask questions about the content of the file. The application uses advanced natural language processing and document search capabilities to provide accurate answers.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Uploading a File](#uploading-a-file)
-  - [Asking Questions](#asking-questions)
-- [Configuration](#configuration)
-- [Advanced Usage](#advanced-usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Getting Started
 
 ### Prerequisites
