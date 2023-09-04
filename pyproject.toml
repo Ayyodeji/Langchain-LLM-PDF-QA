@@ -2,7 +2,7 @@
 name = "llm-pdf-qa-sample-app"
 version = "0.1.0"
 description = ""
-authors = ["Han Lee <lee.hanchung@gmail.com>"]
+authors = ["Ayodeji Ajayi <ajayi.ayodeji@brigbox.com>"]
 readme = "README.md"
 packages = [{include = "llm_pdf_qa_sample_app"}]
 

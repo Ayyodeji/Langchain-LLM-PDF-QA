@@ -1,5 +1,3 @@
-It seems like you have provided additional context about your project and the changes you made to the code as part of your project's README. This information can be incorporated into the README template I provided earlier. Here's an updated README that includes the details you provided:
-
 ---
 
 # PDF Question Answering (QA) Application
@@ -164,6 +162,9 @@ To run the complete application with these prompt improvements, follow the instr
 ---
 
 Feel free to adjust and expand on the workshop details and any other information you'd like to include in your project's README. This should provide a comprehensive overview of your PDF QA Application project and how it evolved through the workshop series.
-# Langchain-LLM-PDF-QA-
-# Langchain-LLM-PDF-QA-
-# Langchain-LLM-PDF-QA-
+
+# Langchain-LLM-PDF-QA
+
+# Langchain-LLM-PDF-QA
+
+# Langchain-LLM-PDF-QA
