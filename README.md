@@ -18,13 +18,13 @@ Before running the application, ensure you have the following prerequisites inst
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/pdf-qa-application.git
+   git clone https://github.com/Ayyodeji/Langchain-LLM-PDF-QA.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd pdf-qa-application
+   cd Langchain-LLM-PDF-QA
    ```
 
 3. Install the required Python dependencies:
