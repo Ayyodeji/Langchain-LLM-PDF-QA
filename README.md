@@ -160,11 +160,3 @@ The updated prompts improved the model's ability to generate accurate answers, e
 To run the complete application with these prompt improvements, follow the instructions provided in the README.
 
 ---
-
-Feel free to adjust and expand on the workshop details and any other information you'd like to include in your project's README. This should provide a comprehensive overview of your PDF QA Application project and how it evolved through the workshop series.
-
-# Langchain-LLM-PDF-QA
-
-# Langchain-LLM-PDF-QA
-
-# Langchain-LLM-PDF-QA
